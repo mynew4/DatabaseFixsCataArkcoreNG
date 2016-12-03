@@ -30,8 +30,8 @@ CREATE TABLE `game_tele` (
       INSERT INTO `game_tele` VALUES ( 0,-3592.43,  1856.87,  48.2406,0,   530,  'AltarOfDamnation   ');
       INSERT INTO `game_tele` VALUES ( 0,-11272.8,  -2547.59,  103.02,0,   0,  'AltarOfStormsA   ');
       INSERT INTO `game_tele` VALUES ( 0,-7613.13,  -761.492,  191.807,0,  0, 'AltarOfStormsB   ');
-	  INSERT INTO `game_tele` VALUES ( 0,-295.384,  -3459.12,  195.005,0,   0,   'AltarOfZul   ');
-	  INSERT INTO `game_tele` VALUES ( 0,  628.53,  -207.67,  40.0523, 0,  30,  'AlteracValley   ');
+      INSERT INTO `game_tele` VALUES ( 0,-295.384,  -3459.12,  195.005,0,   0,   'AltarOfZul   ');
+      INSERT INTO `game_tele` VALUES ( 0,  628.53,  -207.67,  40.0523, 0,  30,  'AlteracValley   ');
       INSERT INTO `game_tele` VALUES ( 0,  -9168.66,  -2726.31,  91.0426,0,   0, 'AlthersMill   ');
       INSERT INTO `game_tele` VALUES ( 0,  6862.09,  -7576.34,  86.6041,0,  530,  'AmaniPass   ');
       INSERT INTO `game_tele` VALUES ( 0,  -126.954,  815.624,  67.0224,0,  0,  'Ambermill   ');
