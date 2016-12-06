@@ -1,12 +1,12 @@
 UPDATE creature 
 SET 
-    spawndist = 20,
+    spawndist = 10,
     MovementType = 1
 WHERE
     id = 35096;
 UPDATE creature 
 SET 
-    spawndist = 20,
+    spawndist = 10,
     MovementType = 1
 WHERE
     id = 35111;
@@ -96,7 +96,7 @@ WHERE
     id = 35831;
 UPDATE creature 
 SET 
-    spawndist = 20,
+    spawndist = 10,
     MovementType = 1
 WHERE
     id = 6650;
@@ -108,157 +108,157 @@ WHERE
     id = 36868;
 UPDATE creature 
 SET 
-    spawndist = 20,
+    spawndist = 10,
     MovementType = 1
 WHERE
     id = 7885;
 UPDATE creature 
 SET 
-    spawndist = 20,
+    spawndist = 10,
     MovementType = 1
 WHERE
     id = 7886;
 UPDATE creature 
 SET 
-    spawndist = 20,
+    spawndist = 10,
     MovementType = 1
 WHERE
     id = 6196;
 UPDATE creature 
 SET 
-    spawndist = 20,
+    spawndist = 10,
     MovementType = 1
 WHERE
     id = 6195;
 UPDATE creature 
 SET 
-    spawndist = 20,
+    spawndist = 10,
     MovementType = 1
 WHERE
     id = 6190;
 UPDATE creature 
 SET 
-    spawndist = 20,
+    spawndist = 10,
     MovementType = 1
 WHERE
     id = 6352;
 UPDATE creature 
 SET 
-    spawndist = 20,
+    spawndist = 10,
     MovementType = 1
 WHERE
     id = 13896;
 UPDATE creature 
 SET 
-    spawndist = 20,
+    spawndist = 10,
     MovementType = 1
 WHERE
     id = 8761;
 UPDATE creature 
 SET 
-    spawndist = 20,
+    spawndist = 10,
     MovementType = 1
 WHERE
     id = 6375;
 UPDATE creature 
 SET 
-    spawndist = 20,
+    spawndist = 10,
     MovementType = 1
 WHERE
     id = 6377;
 UPDATE creature 
 SET 
-    spawndist = 20,
+    spawndist = 10,
     MovementType = 1
 WHERE
     id = 8764;
 UPDATE creature 
 SET 
-    spawndist = 20,
+    spawndist = 10,
     MovementType = 1
 WHERE
     id = 36816;
 UPDATE creature 
 SET 
-    spawndist = 20,
+    spawndist = 10,
     MovementType = 1
 WHERE
     id = 8660;
 UPDATE creature 
 SET 
-    spawndist = 20,
+    spawndist = 10,
     MovementType = 1
 WHERE
     id = 36611;
 UPDATE creature 
 SET 
-    spawndist = 20,
+    spawndist = 10,
     MovementType = 1
 WHERE
     id = 36012;
 UPDATE creature 
 SET 
-    spawndist = 20,
+    spawndist = 10,
     MovementType = 1
 WHERE
     id = 36015;
 UPDATE creature 
 SET 
-    spawndist = 20,
+    spawndist = 10,
     MovementType = 1
 WHERE
     id = 35759;
 UPDATE creature 
 SET 
-    spawndist = 20,
+    spawndist = 10,
     MovementType = 1
 WHERE
-    id = 6201;
+    id = 6101;
 UPDATE creature 
 SET 
-    spawndist = 20,
+    spawndist = 10,
     MovementType = 1
 WHERE
-    id = 6200;
+    id = 6100;
 UPDATE creature 
 SET 
-    spawndist = 20,
+    spawndist = 10,
     MovementType = 1
 WHERE
     id = 36637;
 UPDATE creature 
 SET 
-    spawndist = 20,
+    spawndist = 10,
     MovementType = 1
 WHERE
     id = 36639;
 UPDATE creature 
 SET 
-    spawndist = 20,
+    spawndist = 10,
     MovementType = 1
 WHERE
     id = 36640;
 UPDATE creature 
 SET 
-    spawndist = 20,
+    spawndist = 10,
     MovementType = 1
 WHERE
     id = 36637;
 UPDATE creature 
 SET 
-    spawndist = 20,
+    spawndist = 10,
     MovementType = 1
 WHERE
     id = 6370;
 UPDATE creature 
 SET 
-    spawndist = 20,
+    spawndist = 10,
     MovementType = 1
 WHERE
     id = 36592;
 UPDATE creature 
 SET 
-    spawndist = 20,
+    spawndist = 10,
     MovementType = 1
 WHERE
     id = 36593;
